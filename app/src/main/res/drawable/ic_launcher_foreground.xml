@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (bounds: x=21..87, y=21..87, center=54,54) -->
+
+    <!-- Outer Studio Square Tag in StudioCard with Acid Citron Border -->
+    <path
+        android:fillColor="#13151D"
+        android:strokeColor="#D7FD38"
+        android:strokeWidth="2.5"
+        android:pathData="M34,30 L74,30 C78,30 80,32 80,36 L80,72 C80,76 78,78 74,78 L34,78 C30,78 28,76 28,72 L28,36 C28,32 30,30 34,30 Z" />
+
+    <!-- Sharp Arrow Downstream in Acid Citron (#D7FD38) -->
+    <path
+        android:fillColor="#D7FD38"
+        android:pathData="M51,38 L57,38 L57,51 L65,51 L54,63 L43,51 L51,51 Z" />
+
+    <!-- Crisp Baseline Media Bar -->
+    <path
+        android:fillColor="#D7FD38"
+        android:pathData="M42,67 L66,67 C66.8,67 67.5,67.7 67.5,68.5 C67.5,69.3 66.8,70 66,70 L42,70 C41.2,70 40.5,69.3 40.5,68.5 C40.5,67.7 41.2,67 42,67 Z" />
+
+    <!-- Indicator Dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M71,37 A2,2 0 1,1 70.9,37" />
+</vector>

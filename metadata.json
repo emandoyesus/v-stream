@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "Download TikTok and Instagram videos without watermark in HD quality with offline library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
